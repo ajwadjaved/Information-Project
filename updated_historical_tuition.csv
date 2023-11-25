@@ -66,196 +66,172 @@ year,type,tuition_type,tuition_cost
 2001,Private,2 Year Constant,21550
 2001,Public,2 Year Constant,6996
 2001,All Institutions,2 Year Current,5718
-2001,All Institutions,All Constant,15497
-2001,All Institutions,4 Year Constant,18573
-2001,All Institutions,2 Year Constant,7786
 2001,All Institutions,All Current,11380
+2001,All Institutions,2 Year Constant,7786
+2001,All Institutions,4 Year Constant,18573
+2001,All Institutions,All Constant,15497
 2001,All Institutions,4 Year Current,13639
-2002,Public,4 Year Current,9787
+2002,Private,All Constant,31101
+2002,Private,4 Year Constant,31696
 2002,Private,2 Year Current,17753
 2002,Private,4 Year Current,23787
-2002,Private,All Current,23340
-2002,Private,2 Year Constant,23656
-2002,Private,4 Year Constant,31696
-2002,Private,All Constant,31101
-2002,All Institutions,All Constant,16008
-2002,All Institutions,4 Year Constant,19240
 2002,Public,2 Year Current,5601
-2002,All Institutions,All Current,12014
+2002,Public,4 Year Current,9787
 2002,Public,All Current,8502
-2002,All Institutions,4 Year Current,14439
-2002,All Institutions,2 Year Current,6252
 2002,Public,2 Year Constant,7464
 2002,Public,4 Year Constant,13042
-2002,All Institutions,2 Year Constant,8331
 2002,Public,All Constant,11328
-2003,Private,2 Year Constant,25503
-2003,Private,4 Year Constant,32690
-2003,Private,All Constant,32109
+2002,Private,2 Year Constant,23656
+2002,Private,All Current,23340
+2002,All Institutions,4 Year Constant,19240
+2002,All Institutions,2 Year Constant,8331
+2002,All Institutions,All Current,12014
+2002,All Institutions,4 Year Current,14439
+2002,All Institutions,2 Year Current,6252
+2002,All Institutions,All Constant,16008
+2003,All Institutions,2 Year Current,6705
 2003,Public,All Constant,12057
+2003,Public,4 Year Constant,13919
 2003,Public,2 Year Constant,7840
-2003,Public,2 Year Current,6012
 2003,Public,All Current,9247
 2003,Public,4 Year Current,10674
+2003,Public,2 Year Current,6012
+2003,Private,4 Year Constant,32690
+2003,Private,2 Year Constant,25503
+2003,Private,All Constant,32109
 2003,Private,4 Year Current,25070
-2003,Public,4 Year Constant,13919
-2003,Private,2 Year Current,19558
-2003,Private,All Current,24624
-2003,All Institutions,2 Year Constant,8743
-2003,All Institutions,2 Year Current,6705
-2003,All Institutions,4 Year Current,15505
-2003,All Institutions,All Current,12953
 2003,All Institutions,All Constant,16891
 2003,All Institutions,4 Year Constant,20218
-2004,Public,2 Year Constant,8070
-2004,Private,All Constant,32680
+2003,All Institutions,2 Year Constant,8743
+2003,Private,All Current,24624
+2003,All Institutions,4 Year Current,15505
+2003,All Institutions,All Current,12953
+2003,Private,2 Year Current,19558
+2004,Public,2 Year Current,6375
 2004,Public,All Constant,12487
-2004,All Institutions,4 Year Current,16510
-2004,Private,4 Year Constant,33241
-2004,All Institutions,All Constant,17460
-2004,All Institutions,4 Year Constant,20899
-2004,All Institutions,2 Year Constant,8982
-2004,All Institutions,All Current,13793
-2004,Public,All Current,9864
-2004,Public,4 Year Current,11426
 2004,Public,4 Year Constant,14463
+2004,Public,2 Year Constant,8070
+2004,Public,All Current,9864
 2004,All Institutions,2 Year Current,7095
-2004,Private,2 Year Constant,25694
+2004,All Institutions,4 Year Current,16510
+2004,All Institutions,All Current,13793
+2004,All Institutions,2 Year Constant,8982
+2004,Public,4 Year Current,11426
+2004,All Institutions,4 Year Constant,20899
+2004,All Institutions,All Constant,17460
 2004,Private,All Current,25817
+2004,Private,2 Year Constant,25694
+2004,Private,4 Year Constant,33241
 2004,Private,4 Year Current,26260
 2004,Private,2 Year Current,20297
-2004,Public,2 Year Current,6375
-2005,All Institutions,All Constant,17845
-2005,All Institutions,4 Year Constant,21281
-2005,All Institutions,2 Year Constant,8824
+2004,Private,All Constant,32680
 2005,Private,All Constant,32812
-2005,All Institutions,All Current,14634
-2005,All Institutions,4 Year Current,17451
-2005,Public,All Constant,12748
 2005,Private,2 Year Constant,26101
 2005,Private,All Current,26908
 2005,Private,4 Year Current,27333
 2005,Private,2 Year Current,21404
+2005,All Institutions,2 Year Current,7236
 2005,Public,4 Year Current,12108
-2005,Public,2 Year Current,6492
 2005,Public,All Current,10454
 2005,Public,2 Year Constant,7916
 2005,Public,4 Year Constant,14765
+2005,Public,All Constant,12748
 2005,Private,4 Year Constant,33330
-2005,All Institutions,2 Year Current,7236
-2006,All Institutions,2 Year Current,7466
+2005,All Institutions,4 Year Current,17451
+2005,Public,2 Year Current,6492
+2005,All Institutions,All Constant,17845
+2005,All Institutions,All Current,14634
+2005,All Institutions,2 Year Constant,8824
+2005,All Institutions,4 Year Constant,21281
 2006,All Institutions,4 Year Constant,21956
 2006,All Institutions,2 Year Constant,8874
 2006,All Institutions,All Current,15483
 2006,All Institutions,4 Year Current,18471
+2006,All Institutions,2 Year Current,7466
 2006,All Institutions,All Constant,18404
-2007,All Institutions,All Constant,18604
-2007,All Institutions,4 Year Constant,22194
 2007,All Institutions,2 Year Constant,8754
 2007,All Institutions,All Current,16231
 2007,All Institutions,4 Year Current,19363
 2007,All Institutions,2 Year Current,7637
-2008,All Institutions,4 Year Current,20409
+2007,All Institutions,All Constant,18604
+2007,All Institutions,4 Year Constant,22194
+2008,All Institutions,2 Year Constant,9312
 2008,All Institutions,All Current,17092
 2008,All Institutions,All Constant,19321
 2008,All Institutions,4 Year Constant,23071
-2008,All Institutions,2 Year Constant,9312
+2008,All Institutions,4 Year Current,20409
 2008,All Institutions,2 Year Current,8238
-2009,All Institutions,4 Year Constant,23652
-2009,All Institutions,2 Year Constant,9562
-2009,All Institutions,All Current,17650
-2009,All Institutions,4 Year Current,21126
-2009,All Institutions,2 Year Current,8541
-2009,Private,2 Year Current,24463
-2009,All Institutions,All Constant,19761
-2009,Private,All Constant,35089
-2009,Private,4 Year Constant,35655
-2009,Private,2 Year Constant,27389
-2009,Private,All Current,31341
-2009,Private,4 Year Current,31847
-2010,All Institutions,All Constant,20278
 2010,All Institutions,4 Year Constant,24227
 2010,All Institutions,2 Year Constant,9733
 2010,All Institutions,All Current,18475
 2010,All Institutions,4 Year Current,22074
 2010,All Institutions,2 Year Current,8868
-2011,All Institutions,All Constant,20688
-2011,All Institutions,4 Year Constant,24537
-2011,All Institutions,2 Year Constant,9966
+2010,All Institutions,All Constant,20278
 2011,All Institutions,All Current,19401
+2011,All Institutions,2 Year Constant,9966
+2011,All Institutions,4 Year Constant,24537
+2011,All Institutions,All Constant,20688
 2011,All Institutions,2 Year Current,9347
 2011,All Institutions,4 Year Current,23011
-2012,Public,2 Year Current,8927
-2012,All Institutions,2 Year Current,9573
-2012,Public,All Constant,15755
-2012,Public,4 Year Constant,18328
-2012,Public,2 Year Constant,9363
-2012,Public,All Current,15021
-2012,Public,4 Year Current,17475
-2012,All Institutions,4 Year Current,23871
-2012,All Institutions,All Constant,21222
-2012,All Institutions,4 Year Constant,25037
-2012,All Institutions,2 Year Constant,10041
-2012,All Institutions,All Current,20233
-2013,Public,4 Year Current,18100
+2013,Private,2 Year Current,23870
+2013,Private,4 Year Current,36599
+2013,Private,All Current,35995
+2013,Private,2 Year Constant,24652
+2013,Private,4 Year Constant,37797
+2013,Private,All Constant,37173
+2013,Public,2 Year Current,9283
+2013,All Institutions,2 Year Current,9891
+2013,Public,2 Year Constant,9587
 2013,Public,4 Year Constant,18692
 2013,Public,All Constant,16140
-2013,All Institutions,2 Year Constant,10215
-2013,All Institutions,All Current,20995
-2013,Public,2 Year Constant,9587
 2013,Public,All Current,15628
-2013,All Institutions,All Constant,21682
-2013,Public,2 Year Current,9283
-2013,All Institutions,4 Year Constant,25509
 2013,All Institutions,4 Year Current,24701
-2013,Private,All Constant,37173
-2013,Private,4 Year Constant,37797
-2013,Private,2 Year Constant,24652
-2013,Private,All Current,35995
-2013,Private,4 Year Current,36599
-2013,Private,2 Year Current,23870
-2013,All Institutions,2 Year Current,9891
-2014,All Institutions,2 Year Constant,10409
-2014,All Institutions,All Current,21729
-2014,All Institutions,4 Year Constant,26051
-2014,All Institutions,2 Year Current,10153
+2013,Public,4 Year Current,18100
+2013,All Institutions,2 Year Constant,10215
+2013,All Institutions,4 Year Constant,25509
+2013,All Institutions,All Constant,21682
+2013,All Institutions,All Current,20995
+2014,Private,2 Year Constant,24941
 2014,All Institutions,4 Year Current,25409
+2014,All Institutions,All Current,21729
+2014,All Institutions,2 Year Constant,10409
+2014,All Institutions,2 Year Current,10153
+2014,Private,2 Year Current,24327
+2014,Private,All Current,37422
+2014,Public,4 Year Constant,19102
+2014,Public,2 Year Constant,9828
+2014,Public,All Current,16188
+2014,Public,4 Year Current,18632
+2014,Public,2 Year Current,9585
+2014,All Institutions,4 Year Constant,26051
+2014,All Institutions,All Constant,22278
 2014,Private,All Constant,38367
 2014,Private,4 Year Constant,38947
-2014,All Institutions,All Constant,22278
-2014,Private,4 Year Current,37988
-2014,Private,2 Year Current,24327
-2014,Public,2 Year Constant,9828
-2014,Public,2 Year Current,9585
-2014,Public,4 Year Current,18632
-2014,Public,All Current,16188
-2014,Public,4 Year Constant,19102
 2014,Public,All Constant,16597
-2014,Private,All Current,37422
-2014,Private,2 Year Constant,24941
-2015,Private,4 Year Constant,40261
+2014,Private,4 Year Current,37988
+2015,All Institutions,4 Year Constant,26613
+2015,All Institutions,All Constant,22852
+2015,All Institutions,2 Year Constant,10599
+2015,All Institutions,4 Year Current,26132
 2015,Public,2 Year Current,9914
 2015,Public,4 Year Current,19204
 2015,Public,All Current,16766
-2015,Public,2 Year Constant,10097
+2015,All Institutions,All Current,22439
 2015,Public,4 Year Constant,19558
-2015,Private,All Constant,39734
-2015,All Institutions,All Constant,22852
 2015,Public,All Constant,17075
-2015,All Institutions,4 Year Current,26132
-2015,All Institutions,2 Year Constant,10599
-2015,All Institutions,2 Year Current,10407
-2015,Private,2 Year Current,24375
+2015,Public,2 Year Constant,10097
 2015,Private,4 Year Current,39534
 2015,Private,All Current,39016
+2015,Private,4 Year Constant,40261
+2015,Private,All Constant,39734
+2015,All Institutions,2 Year Current,10407
+2015,Private,2 Year Current,24375
 2015,Private,2 Year Constant,24824
-2015,All Institutions,All Current,22439
-2015,All Institutions,4 Year Constant,26613
 2016,Private,All Constant,40925
 2016,Private,4 Year Constant,41468
 2016,Private,2 Year Constant,24882
 2016,Private,All Current,40925
-2016,Public,4 Year Constant,19488
+2016,Public,4 Year Current,19488
 2016,All Institutions,All Constant,23091
 2016,All Institutions,4 Year Constant,26593
 2016,All Institutions,2 Year Constant,10598
@@ -263,9 +239,9 @@ year,type,tuition_type,tuition_cost
 2016,All Institutions,4 Year Current,26593
 2016,All Institutions,2 Year Current,10598
 2016,Private,4 Year Current,41468
-2016,Public,2 Year Current,10091
-2016,Public,4 Year Current,19488
-2016,Public,All Current,17237
-2016,Public,2 Year Constant,10091
 2016,Public,All Constant,17237
+2016,Public,4 Year Constant,19488
+2016,Public,2 Year Constant,10091
+2016,Public,All Current,17237
+2016,Public,2 Year Current,10091
 2016,Private,2 Year Current,24882
